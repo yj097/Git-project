@@ -8,7 +8,12 @@
 [2. 프로젝트 파일 구성]
 
 2.1 총 5개의 파일로 구성 
+
 main.py, expenses.py, goals.py, manage_schedule.py, user_settings.py 
+
+2.1.1 main.py 
+
+주요 기능들의 목록을 출력합니다. 사용자가 메인 메뉴에서 특정 번호를 선택하면, 해당 기능과 관련된 파이썬(expenses.py, goals.py, manage_schedule.py, user_settings.py)과 연결됩니다. 
 
 2.2 각 파일의 기능 설명 
    2.2.1 main.py 
