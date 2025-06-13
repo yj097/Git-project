@@ -14,17 +14,13 @@ main.py, expenses.py, goals.py, manage_schedule.py, user_settings.py
 2.1.1 main.py 
 
 주요 기능들의 목록을 출력합니다. 사용자가 메인 메뉴에서 특정 번호를 선택하면, 해당 기능과 관련된 파이썬(expenses.py, goals.py, manage_schedule.py, user_settings.py)과 연결됩니다. 
+1 - 지출 관리 (expenses.py와 연결)
+2 - 목표 확인 (goals.py와 연결)
+3 - 일정 관리 (manage_schedule.py와 연결)
+4 - 사용자 설정 (user_settings.py와 연결)
+5 - 종료 (프로그램을 종료합니다. 좋은 하루 되세요!/Exiting program. Have a great day!) 
 
-2.2 각 파일의 기능 설명 
-   2.2.1 main.py 
 
-   2.2.2 expenses.py
-
-   2.2.3 goals.py 
-
-   2.2.4 manage_schedule.py
-
-   2.2.5 user_settings.py 
    
 
 [3. 프로젝트 실행 방법]
