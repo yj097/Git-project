@@ -2,9 +2,11 @@
 
 [1. 프로젝트 개요]
 
+저희 하루 도우미 프로젝트는 사용자의 일상 관리를 돕는 프로젝트입니다.
 
 
 [2. 프로젝트 파일 구성]
+
 2.1 총 5개의 파일로 구성 
 main.py, expenses.py, goals.py, manage_schedule.py, user_settings.py 
 
